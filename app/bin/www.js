@@ -1,7 +1,7 @@
-const app = require('../app');
+const app = require("../app");
 
 const PORT = 3000;
 
 app.listen(PORT, () => {
-    console.log('열렸다.');
+  console.log("열렸다.");
 });
